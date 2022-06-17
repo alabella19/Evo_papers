@@ -13,3 +13,11 @@ These papers represent some important resources for the study of human evolution
 6. Marciniak S, Perry GH. Harnessing ancient genomes to study the history of human adaptation. Nature Reviews Genetics. 2017 Nov;18(11):659-74.
 7. Benton ML, Abraham A, LaBella AL, Abbot P, Rokas A, Capra JA. The influence of evolutionary history on human health and disease. Nature Reviews Genetics. 2021 May;22(5):269-83.
 8. Timpson NJ, Greenwood CM, Soranzo N, Lawson DJ, Richards JB. Genetic architecture: the shape of the genetic contribution to human traits and disease. Nature Reviews Genetics. 2018 Feb;19(2):110-24.
+9. Manolio TA, Collins FS, Cox NJ, Goldstein DB, Hindorff LA, Hunter DJ, McCarthy MI, Ramos EM, Cardon LR, Chakravarti A, Cho JH. Finding the missing heritability of complex diseases. Nature. 2009 Oct;461(7265):747-53.
+
+## Foundational Papers
+
+1. Prado-Martinez J, Sudmant PH, Kidd JM, Li H, Kelley JL, Lorente-Galdos B, Veeramah KR, Woerner AE, O’connor TD, Santpere G, Cagan A. Great ape genetic diversity and population history. Nature. 2013 Jul;499(7459):471-5.
+2. Telenti A, Pierce LC, Biggs WH, Di Iulio J, Wong EH, Fabani MM, Kirkness EF, Moustafa A, Shah N, Xie C, Brewerton SC. Deep sequencing of 10,000 human genomes. Proceedings of the National Academy of Sciences. 2016 Oct 18;113(42):11901-6.
+3. Boyle EA, Li YI, Pritchard JK. An expanded view of complex traits: from polygenic to omnigenic. Cell. 2017 Jun 15;169(7):1177-86.
+
